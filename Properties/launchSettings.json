@@ -1,0 +1,16 @@
+﻿{
+
+  "profiles": {
+
+    "_335ass2": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      
+      "launchUrl": "",
+      "applicationUrl": "https://localhost:8080;http://localhost:8081",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
